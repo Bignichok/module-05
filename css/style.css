@@ -24,8 +24,6 @@ img {
   margin: 0 auto;
 }
 
-/* HEADER */
-
 .logo {
   float: left;
   margin: 36px auto 24px;
@@ -70,7 +68,7 @@ img {
   color: #1abc9c;
   cursor: pointer;
 }
-/* MAIN */
+
 .slider {
   position: relative;
   height: 600px;
@@ -150,6 +148,7 @@ img {
 }
 .slider:hover .slider-title-decoration {
   color: #ff7200;
+  cursor: pointer;
 }
 
 .gallery {
@@ -290,7 +289,7 @@ img {
   background-color: #1abc9c;
   cursor: pointer;
 }
-/* FOOTER */
+
 .footer {
   background-color: #323232;
 }
